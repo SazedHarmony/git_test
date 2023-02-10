@@ -1,0 +1,8 @@
+git clone git@github.com:SazedHarmony/REPO-NAME.git to clone a REPO
+git push or git push origin main to push commits
+
+git add . to add all of the files in the folder to the staging area
+git commit -m "A message describing what you have done to make this snapshot different"
+
+git status to check the status
+git log to get the log of what has been done
